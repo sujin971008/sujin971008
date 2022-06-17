@@ -17,7 +17,7 @@ sujin971008@gmail.com
 #### 🔗MY BLOG🔗
  <a href="https://goril-choe.tistory.com/" target="_blank"><img src="https://user-images.githubusercontent.com/65346989/127509417-c2f672e7-70a8-4d44-b43f-70364e022a81.png"/></a>
 
-![SUJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUJIN&theme=buefy&show_icons=true)
+<!-- ![SUJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUJIN&theme=buefy&show_icons=true) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
